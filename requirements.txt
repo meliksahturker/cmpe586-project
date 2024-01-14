@@ -1,0 +1,6 @@
+tensorflow
+sentencepiece
+pandas
+jiwer
+jupyter
+notebook

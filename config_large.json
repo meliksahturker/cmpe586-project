@@ -1,0 +1,9 @@
+{
+	"N": 6,
+	"H": 12,
+	"D_MODEL": 768,
+	"DROPOUT": 0,
+	"SOURCE_LEN": 256,
+	"TARGET_LEN": 256,
+	"VOCAB_SIZE": 256
+}
